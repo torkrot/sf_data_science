@@ -13,6 +13,7 @@
 
 ### Описание проекта
 Угадать загаданное компьтером число за минимальное число попыток
+
 [к оглавлению](https://github.com/torkrot/sf_data_science/tree/master/project_0/README.md#Описание)
 
 
@@ -31,6 +32,7 @@
 
 ### Краткая информация о данных
 None...
+
 [к оглавлению](https://github.com/torkrot/sf_data_science/tree/master/project_0/README.md#Описание)
 
 ### Этапы работы над проектом
