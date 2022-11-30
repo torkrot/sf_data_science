@@ -1,9 +1,9 @@
 # Homework 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/torkrot/sf_data_science/tree/master/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/torkrot/sf_data_science/tree/master/project_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/torkrot/sf_data_science/tree/master/project_1/README.md#Результаты)    
+[1. Описание проекта](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/README.md#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/README.md#Результаты)    
 
 
 ### Описание проекта    
@@ -37,6 +37,6 @@
 Преобразование, построение графиков и очистку данных из дата-сета с помощью инструментов Python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/tree/master/project_1/Project_1. Head Hunter data.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/Project-1. Head Hunter data.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/torkrot/sf_data_science/tree/master/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/README.md#Оглавление)
