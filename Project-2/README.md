@@ -1,4 +1,4 @@
-# Homework 1. Анализ базы данных резюме c Head Hunter
+# Homework 2. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/README.md#Описание-проекта)  
