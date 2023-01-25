@@ -1,9 +1,9 @@
 # Homework 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/torkrot/sf_data_science/tree/master/Project_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/torkrot/sf_data_science/tree/master/Project_2/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/torkrot/sf_data_science/tree/master/Project_2/README.md#Результаты)    
+[1. Описание проекта](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/README.md#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/README.md#Результаты)    
 
 
 ### Описание проекта    
@@ -34,6 +34,6 @@
  Написание запросов на языке SQL. Практика предварительного, детального и предметного анализа данных
 
 ### Результаты:  
-* [Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/tree/master/Project_2/Project_2. Head Hunter data.ipynb)
+* [Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/Project_2.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/torkrot/sf_data_science/tree/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/torkrot/sf_data_science/tree/project-0/README.md#Оглавление)
