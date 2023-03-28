@@ -31,6 +31,6 @@
 6. Навыки преобразования признаков.
 
 ### Результаты:  
-* [Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/blob/project-0/Project-2/Project_2.ipynb)
+* [Ноутбук с выполненными заданиями и выводами](https://github.com/torkrot/sf_data_science/blob/project-0/Project-3/Project-3.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/torkrot/sf_data_science/tree/project-0/README.md#Оглавление)
